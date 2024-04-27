@@ -15,6 +15,16 @@
 
 - [LinkedIn](https://www.linkedin.com/in/rizky-aditya-923764201/)
 
+## My Github Statistic
+
+<p align="center">
+<a href="https://github.com/boyhendrawan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rzad20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rzad20&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 <!--
 **rzad20/rzad20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
