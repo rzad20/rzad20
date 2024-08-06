@@ -1,6 +1,6 @@
 ### Hi there, I'm Adit 👋
 
-✨ I'm a Machine Learning and AI Enthusiast and Also have passion in Mobile Development. I hope i can contribute to community more often in the future ✨
+✨ I love to explore my knowledge in Mobile Development and Machine Learning. I hope i can contribute to community more often in the future ✨
 
 - 🌱 I’m currently learning Mobile Development and Machine Learning
 
